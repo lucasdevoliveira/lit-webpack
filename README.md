@@ -1,6 +1,5 @@
 # webpack-with-lit
-webpack configuration for run lit project
-
+Lit configuration with webpack
 # Run project
 
 ```
