@@ -1,4 +1,4 @@
-# webpack-with-lit
+# Lit-webpack
 Lit configuration with webpack
 # Run project
 
